@@ -10,7 +10,7 @@ setup(
     description="High-performance multivariate temporal correlation engine for anomaly detection",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/parallelwatch/parallelwatch",
+    url="https://github.com/prakulhiremath/parallelwatch",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
