@@ -1,5 +1,11 @@
 # ParallelWatch
 
+[![PyPI version](https://img.shields.io/pypi/v/parallelwatch.svg)](https://pypi.org/project/parallelwatch/)
+[![PyPI Downloads](https://static.pepy.tech/badge/parallelwatch)](https://pepy.tech/project/parallelwatch)
+[![DOI](https://zenodo.org/badge/1253748621.svg)](https://doi.org/10.5281/zenodo.20494485)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Medium](https://img.shields.io/badge/Medium-Article-black?logo=medium)](https://medium.com/@prakulhiremath/when-systems-fail-in-silence-why-we-miss-what-actually-matters-572753ae6220)
+
 **High-Performance Multivariate Temporal Correlation Engine for Infrastructure & Quant Anomaly Detection**
 
 ParallelWatch is a production-ready PyTorch implementation of parallel State-Space Models (SSMs) for real-time anomaly detection across hundreds of correlated infrastructure and financial metrics. Detect cascading failures with sub-microsecond latency per metric using learned cross-metric attention instead of expensive pairwise correlations.
