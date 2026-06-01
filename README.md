@@ -286,5 +286,5 @@ Built with PyTorch. Inspired by Mamba, FlashAttention, and state-space sequence 
 
 ---
 
-**GitHub**: [parallelwatch/parallelwatch](https://github.com/prakulhiremath/parallelwatch)
+**GitHub**: [parallelwatch](https://github.com/prakulhiremath/parallelwatch)
 **PyPI**: [parallelwatch](https://pypi.org/project/parallelwatch)
