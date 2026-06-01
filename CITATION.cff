@@ -1,26 +1,19 @@
 cff-version: 1.2.0
-title: ParallelWatch
-message: "If you use ParallelWatch, please cite it using the metadata below."
+message: "If you use this software, please cite it as below."
+title: "ParallelWatch"
 type: software
 
 authors:
 
-* family-names: Hiremath
-  given-names: Prakul
+* family-names: "Hiremath"
+  given-names: "Prakul"
 
-repository-code: https://github.com/prakulhiremath/parallelwatch
+version: "0.1.0"
+date-released: "2026-06-01"
 
-url: https://github.com/prakulhiremath/parallelwatch
+doi: "10.5281/zenodo.20494486"
 
-doi: 10.5281/zenodo.20494486
+repository-code: "https://github.com/prakulhiremath/parallelwatch"
+url: "https://github.com/prakulhiremath/parallelwatch"
 
-version: 0.1.0
-
-date-released: 2026-06-01
-
-license: MIT
-
-abstract: >
-ParallelWatch is a real-time multivariate temporal correlation and
-anomaly detection engine based on parallel state-space models for
-infrastructure telemetry, financial monitoring, and cascading failure detection.
+license: "MIT"
