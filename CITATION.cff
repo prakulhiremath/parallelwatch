@@ -1,23 +1,12 @@
 cff-version: 1.2.0
-message: "If you use ParallelWatch, please cite it as below."
-title: "ParallelWatch"
-type: software
-
+message: "If you use this software, please cite it as below."
 authors:
 
 * family-names: "Hiremath"
   given-names: "Prakul"
-
-version: "0.1.0"
-doi: "10.5281/zenodo.20494486"
-date-released: 2026-06-01
-
-repository-code: "https://github.com/prakulhiremath/parallelwatch"
-url: "https://github.com/prakulhiremath/parallelwatch"
-
-license: "MIT"
-
-abstract: >
-Real-time multivariate temporal correlation and anomaly detection engine
-based on parallel state-space models for infrastructure telemetry,
-financial monitoring, and cascading failure detection.
+  title: "ParallelWatch: Real-Time Multivariate Temporal Correlation and Anomaly Detection"
+  version: 0.1.0
+  doi: 10.5281/zenodo.20494486
+  date-released: 2026-06-01
+  url: "https://github.com/prakulhiremath/parallelwatch"
+  license: MIT
