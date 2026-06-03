@@ -5,6 +5,7 @@
 [![DOI](https://zenodo.org/badge/1253748621.svg)](https://doi.org/10.5281/zenodo.20494485)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Medium](https://img.shields.io/badge/Medium-Article-black?logo=medium)](https://medium.com/@prakulhiremath/when-systems-fail-in-silence-why-we-miss-what-actually-matters-572753ae6220)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/parallelwatch?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/parallelwatch)
 
 **High-Performance Multivariate Temporal Correlation Engine for Infrastructure & Quant Anomaly Detection**
 
